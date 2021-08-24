@@ -1,0 +1,9 @@
+0:divide_by_zero
+2:non_maskable_intr
+3:breakpoint_exception
+6:invalid_opcode
+11:segment_not_present
+12:stack_segment_fault
+13:genereal_protection_fault
+14:page_fault
+18:machine_check
