@@ -1,2 +1,3 @@
 # data_structures
-Data structures review for students in C using abstract data types
+This is complete package with linear and non-linear data structures 
+intended for classroom use and or as a supplement.
