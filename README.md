@@ -1,6 +1,6 @@
 # data_structures
 This is complete package with linear and non-linear data structures 
-intended for classroom use and or as a supplement.
+intended for classroom use.
 
 # content
 DATA STRUCTURES USING ABSTRACT DATA TYPES with sample application data structures
