@@ -1,5 +1,5 @@
 # Data-structures-and-Advanced-Algorithms
-This is complete a package with linear and non-linear data structures 
+This is a complete package with linear and non-linear data structures 
 intended for a teaching enviroment, such as Advanced Data Structure Design and/or Advanced Algorithms Design.
 
 # content
