@@ -15,7 +15,9 @@ Examples can easily be mapped into object oriented programming languages, such a
 
 ##################
 FIRST PART: ARRAYS (FIXED AND DYNAMIC), LINKED LISTS, QUEUES, STACKS
+
 SECOND PART: GRAPHS (matrix and linked list), BINARY HEAPs (array and pointer-based), HASHING TABLES (array, chaning, buckets) and differenr probing, BST, & SORTING (all fundamental sorting).
+
 EXERCISES: GENERAL TREES, AVL, RED-BLACK TREE, B-TREES (aka M-way trees), sorting in linear time (radix etc.)
 MORE SPECIALIZED DATA STRUCTURES: MERKLE TREES (hash trees), TRIES, etc.
 ##################
